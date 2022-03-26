@@ -7,7 +7,7 @@ Summary:	Sphinx theme used by Guzzle
 Summary(pl.UTF-8):	Motyw Sphinksa wykorzystywany przez Guzzle
 Name:		python-guzzle_sphinx_theme
 Version:	0.7.11
-Release:	4
+Release:	5
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/guzzle_sphinx_theme/
